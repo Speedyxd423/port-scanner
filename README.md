@@ -1,2 +1,2 @@
 # port-scanner
-A Multi threaded port-scanne
+A Multi threaded port-scanner
